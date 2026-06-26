@@ -1,10 +1,11 @@
-;;; grpclient.el --- Description -*- lexical-binding: t; -*-
+;;; grpclient.el --- GRPC client for Emacs -*- lexical-binding: t; -*-
 ;;
 ;; Copyright (C) 2025 Ivan Prikaznov
 ;;
 ;; Author: Ivan Prikaznov <prikaznov555@gmail.com>
 ;; Maintainer: Ivan Prikaznov <prikaznov555@gmail.com>
 ;; Created: 14 Mar 2025
+;; Version: 0.1.0
 ;; Keywords: grpc grpcurl
 
 ;;
